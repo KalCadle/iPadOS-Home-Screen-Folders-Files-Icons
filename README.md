@@ -10,5 +10,13 @@ OPEN FILE SHORTCUT
 
 https://www.icloud.com/shortcuts/1697f2a6608b4c31b6630f4332d6210b
 
+OPEN DOWNLOADS FOLDER SHORTCUT
+
+https://www.icloud.com/shortcuts/f7dd8e72dd5543658633714b082de37f
+
+OPEN FOLDER SHORTCUT
+
+https://www.icloud.com/shortcuts/ab943d2cf2e745e8be299be4800ac6ec
+
 IMPORTANT NOTE:
 If you import these files from Apple’s Photos app, these icons will be stretched to fit the square shape of the icon.  You should use the “Choose File” option.  Full steps for the shortcuts and adding the icons to the shortcuts are covered in the additional documentation.
