@@ -12,7 +12,7 @@ OPEN FILE SHORTCUT:
 
 https://www.icloud.com/shortcuts/1697f2a6608b4c31b6630f4332d6210b
 
-To use one of the icons included in this repository:
+To use this shortcut:
 
 1. Tap the 3 dot edit icon in the upper right corner of the Open File Shortcut inside the Shortcuts app.
 2. Tap the blue highlit "File" in the text of the shortcut, and select the file you want to be opened by the shortcut.
@@ -27,7 +27,7 @@ DOWNLOADS FOLDER SHORTCUT:
 
 https://www.icloud.com/shortcuts/f7dd8e72dd5543658633714b082de37f
 
-To use one of the icons included in this repository:
+To use this shortcut:
 
 1. Tap the 3 dot edit icon in the upper right corner of the Downloads Shortcut inside the Shortcuts app.
 2. Tap the blue, circular hamburger icon at the top right.  This will display a list of options, and you should select "Add to Home Screen" at the top of the list.  This will bring up a Preview and a section titled "Home Screen Name And Icon".
@@ -39,7 +39,7 @@ OPEN FOLDER SHORTCUT:
 
 https://www.icloud.com/shortcuts/ab943d2cf2e745e8be299be4800ac6ec
 
-To use one of the icons included in this repository:
+To use this shortcut:
 
 1. Tap the 3 dot edit icon in the upper right corner of the Open File Shortcut inside the Shortcuts app.
 2. Tap the blue highlit "Folder" in the text of the shortcut, and select the file you want to be opened by the shortcut.
