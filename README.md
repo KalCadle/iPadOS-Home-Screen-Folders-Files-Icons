@@ -1,7 +1,6 @@
 # iPadOS-Home-Screen-Folders-Files-Icons
-Convert your iPadOS Home Screen into a desktop to rival MacOS.
 
-![Home Screen Becomes a Desktop](https://user-images.githubusercontent.com/107877616/174650339-24903f39-66c5-4d2a-b4ec-9b1430369a76.jpeg)
+![image](https://user-images.githubusercontent.com/107877616/174652057-a11186dd-03fd-487a-a4d4-ae9ce2534f46.jpeg)
 
 ![image](https://user-images.githubusercontent.com/107877616/174650463-df884079-d007-4b24-9331-88b3e7620772.jpeg)
 
