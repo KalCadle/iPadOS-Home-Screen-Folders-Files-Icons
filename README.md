@@ -50,5 +50,9 @@ To use this shortcut:
 7. Navigate to the folder you stored these icons in, and tap the one you want to use.  The icon you selected will load into the shortcut icon, and will be previewed in the preview window.
 8. Select "Add" at the top right corner.  The shortcut will be loaded to your home screen, and you can move it wherever you want within the app grid like any app icon.  To move it to the app dock, just drag it over the app dock and drop it on.
 
+HELPFULL TIPS FOR USING THESE SHORTCUTS:
+
+If you want to create more shortcuts to open another folder, or another file, hold press or right click the shortcut you want to duplicate, and an option menu will appear.  Tap the "Duplicate" option.  Then modify the duplicate with the information for the new file or folder shortcut you want to create.  This makes it easier to create shortcuts to many different folders and files.
+
 IMPORTANT NOTE:
 If you import these files from Apple’s Photos app, these icons will be stretched to fit the square shape of the icon.  You should use the “Choose File” option.  Full steps for the shortcuts and adding the icons to the shortcuts are detailed above.
