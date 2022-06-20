@@ -8,7 +8,7 @@ Do you want to save folders or individual files to your home screen or app dock 
 
 Below are the links to the shortcuts used for these actions:
 
-OPEN FILE SHORTCUT
+OPEN FILE SHORTCUT:
 
 https://www.icloud.com/shortcuts/1697f2a6608b4c31b6630f4332d6210b
 
@@ -23,7 +23,7 @@ To use one of the icons included in this repository:
 7. Navigate to the folder you stored these icons in, and tap the one you want to use.  The icon you selected will load into the shortcut icon, and will be previewed in the preview window.
 8. Select "Add" at the top right corner.  The shortcut will be loaded to your home screen, and you can move it wherever you want within the app grid like any app icon.  To move it to the app dock, just drag it over the app dock and drop it on.
 
-OPEN DOWNLOADS FOLDER SHORTCUT
+DOWNLOADS FOLDER SHORTCUT:
 
 https://www.icloud.com/shortcuts/f7dd8e72dd5543658633714b082de37f
 
@@ -35,7 +35,7 @@ To use one of the icons included in this repository:
 4. Navigate to the folder you stored these icons in, and tap the one you want to use.  The icon you selected will load into the shortcut icon, and will be previewed in the preview window.
 5. Select "Add" at the top right corner.  The shortcut will be loaded to your home screen, and you can move it wherever you want within the app grid like any app icon.  To move it to the app dock, just drag it over the app dock and drop it on.
 
-OPEN FOLDER SHORTCUT
+OPEN FOLDER SHORTCUT:
 
 https://www.icloud.com/shortcuts/ab943d2cf2e745e8be299be4800ac6ec
 
