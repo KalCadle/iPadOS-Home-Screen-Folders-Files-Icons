@@ -52,7 +52,7 @@ To use this shortcut:
 
 HELPFULL TIPS FOR USING THESE SHORTCUTS:
 
-If you want to create more shortcuts to open another folder, or another file, hold press or right click the shortcut you want to duplicate, and an option menu will appear.  Tap the "Duplicate" option.  Then modify the duplicate with the information for the new file or folder shortcut you want to create.  This makes it easier to create shortcuts to many different folders and files.
+If you want to create more shortcuts to open another folder, or another file, hold press or right click the shortcut you want to duplicate within the Shortcuts app, and an option menu will appear.  Tap the "Duplicate" option.  Then modify the duplicate with the information for the new file or folder shortcut you want to create.  This makes it easier to create shortcuts to many different folders and files.
 
 IMPORTANT NOTE:
 If you import these files from Apple’s Photos app, these icons will be stretched to fit the square shape of the icon.  You should use the “Choose File” option.  Full steps for the shortcuts and adding the icons to the shortcuts are detailed above.
