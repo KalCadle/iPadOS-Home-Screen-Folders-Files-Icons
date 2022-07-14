@@ -56,3 +56,5 @@ If you want to create more shortcuts to open another folder, or another file, ho
 
 IMPORTANT NOTE:
 If you import these files from Apple’s Photos app, these icons will be stretched to fit the square shape of the icon.  You should use the “Choose File” option.  Full steps for the shortcuts and adding the icons to the shortcuts are detailed above.
+
+Also note that the above directions are currently for iPadOS 15 and iOS 15.
