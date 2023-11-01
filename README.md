@@ -1,8 +1,9 @@
 # iPadOS-Home-Screen-Folders-Files-Icons
 
-![image](https://user-images.githubusercontent.com/107877616/174652057-a11186dd-03fd-487a-a4d4-ae9ce2534f46.jpeg)
+![image](https://github.com/KalCadle/iPadOS-Home-Screen-Folders-Files-Icons/assets/107877616/c6f6794c-3d4e-41b5-b786-5e8dd4db290e)
 
-![image](https://user-images.githubusercontent.com/107877616/174650463-df884079-d007-4b24-9331-88b3e7620772.jpeg)
+![image](https://github.com/KalCadle/iPadOS-Home-Screen-Folders-Files-Icons/assets/107877616/0a45ee8e-fecc-4ac1-97b1-eeb2edad86bb)
+
 
 Do you want to save folders or individual files to your home screen or app dock on your iPad or iPhone?  Apple’s Shortcuts app allows you to do just that, but the icon options from within the Shortcuts app leave something to be desired.  That is what this repository is for.  This repository includes icons for the Downloads folder, standard folders, image files, audio files, .html files, and .pdf files.  And these icons perfectly match the icons that appear within the iOS/iPadOS Files app, so they look at home on your device.  New icons labeled iPadOS 17 have been added to match the refreshed icons.  And because the Shortcuts app saves your shortcuts within the Shortcuts app, it’s easy to use the shortcuts on all of your Apple Devices.  For greatest convenience using these icons, save these icons in a folder on your iCloud Drive, that way you can easily use them cross-device as well.
 
